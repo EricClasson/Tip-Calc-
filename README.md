@@ -28,8 +28,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://your-solution-url.com)](https://ericclasson.github.io/Age-Calculator-app/)
-- Live Site URL: [[Add live site URL here](https://your-live-site-url.com)](https://ericclasson.github.io/Age-Calculator-app/)
+- Solution URL: (https://ericclasson.github.io/Tip-Calculator/)
+- Live Site URL: (https://ericclasson.github.io/Tip-Calculator/)
 
 ## My process
 
